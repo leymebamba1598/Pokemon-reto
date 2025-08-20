@@ -12,4 +12,5 @@ datos.
 git clone https://github.com/leymebamba1598/Pokemon-reto.git
 cd Pokemon-reto
 go mod download
+go mod tidy
 go build
